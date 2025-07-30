@@ -13,6 +13,19 @@
 - **Herramientas**: Jira · GitHub · DevTools · Android Studio
 - **Otros**: Documentación funcional · Análisis de procesos · Automatización operativa
 
+- ## 🧪 Tecnologías y herramientas que uso
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevTools-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+</p>
+
 ---
 
 ## 📂 Proyectos destacados
