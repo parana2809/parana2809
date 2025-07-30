@@ -29,6 +29,6 @@ Validación funcional del proceso de solicitud de taxi, incluyendo dirección, c
 
 ## 📫 Conecta conmigo
 
-- ✉️ **Correo**: yparanar@gmail.com  
+- ✉️ **Correo**: parana2809@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yeny-paolaarana-rodriguez/)
   
