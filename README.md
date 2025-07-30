@@ -8,13 +8,6 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes**: Python · SQL 
-- **Testing**: Postman · Selenium · API Testing · UI Testing · Mobile Testing · Pruebas de regresión
-- **Herramientas**: Jira · GitHub · DevTools · Android Studio
-- **Otros**: Documentación funcional · Análisis de procesos · Automatización operativa
-
-- ## 🧪 Tecnologías y herramientas que uso
-
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
@@ -25,7 +18,7 @@
   <img src="https://img.shields.io/badge/DevTools-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
-
+- **Otros**: Documentación funcional · Análisis de procesos · Automatización operativa
 ---
 
 ## 📂 Proyectos destacados
