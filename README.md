@@ -39,9 +39,9 @@ Validación funcional del proceso de solicitud de taxi, incluyendo dirección, c
 
 ## 📈 Estadísticas de GitHub
 
-![Parana2809's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parana2809&show_icons=true&theme=default)
+![Parana2809's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parana2809&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parana2809&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parana2809&layout=compact&theme=tokyonight)
 
 ---
 
