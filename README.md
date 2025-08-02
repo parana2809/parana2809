@@ -4,6 +4,10 @@
 
 🎯 Con más de 12 años de experiencia en gestión administrativa, procesos operativos y documentación de requerimientos, mi enfoque se centra en conectar el conocimiento del negocio con soluciones técnicas funcionales y de calidad.
 
+🚀 Ya tuve la oportunidad de trabajar en una empresa de desarrollo de software, donde además de apoyar comercialmente, participé activamente en la **validación funcional de plataformas**, el **seguimiento de requerimientos** y los **ciclos de pruebas**. Allí también desempeñé funciones como generación de leads, asesoría comercial, documentación de necesidades del cliente y acompañamiento posventa.
+
+🎯 Hoy, mi objetivo es seguir reforzando mis habilidades en QA ENGINNER —un campo que me apasiona— y consolidar mi transición hacia entornos tecnológicos, combinando mi experiencia funcional con nuevas capacidades técnicas para aportar valor real a los equipos de calidad y desarrollo.
+
 ---
 
 ## 🛠️ Tecnologías y herramientas
@@ -30,6 +34,14 @@ Automatización de pruebas para validar el comportamiento del campo `name` en la
 🚕 **Urban Routes – Pruebas Web y Móvil**  
 Validación funcional del proceso de solicitud de taxi, incluyendo dirección, confirmación y asignación de conductor.  
 👉 [Ver proyecto](https://github.com/parana2809/qa-project-Urban-Routes-es)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Parana2809's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parana2809&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parana2809&layout=compact&theme=default)
 
 ---
 
