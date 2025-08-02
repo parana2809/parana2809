@@ -4,7 +4,7 @@
 
 🎯 Con más de 12 años de experiencia en gestión administrativa, procesos operativos y documentación de requerimientos, mi enfoque se centra en conectar el conocimiento del negocio con soluciones técnicas funcionales y de calidad.
 
-🚀 Ya tuve la oportunidad de trabajar en una empresa de desarrollo de software, donde además de apoyar comercialmente, participé activamente en la **validación funcional de plataformas**, el **seguimiento de requerimientos** y los **ciclos de pruebas**. Allí también desempeñé funciones como generación de leads, asesoría comercial, documentación de necesidades del cliente y acompañamiento posventa.
+🚀 Tuve la oportunidad de trabajar en una empresa de desarrollo de software, donde además de apoyar comercialmente, participé activamente en la **validación funcional de plataformas**, el **seguimiento de requerimientos** y los **ciclos de pruebas**. Allí también desempeñé funciones como generación de leads, asesoría comercial, documentación de necesidades del cliente y acompañamiento posventa.
 
 🎯 Hoy, mi objetivo es seguir reforzando mis habilidades en QA ENGINNER —un campo que me apasiona— y consolidar mi transición hacia entornos tecnológicos, combinando mi experiencia funcional con nuevas capacidades técnicas para aportar valor real a los equipos de calidad y desarrollo.
 
